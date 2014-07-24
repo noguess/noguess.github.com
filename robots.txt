@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://noguess.github.io/sitemap.xml 
