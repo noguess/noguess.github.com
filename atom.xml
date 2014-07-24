@@ -4,7 +4,7 @@
   <title><![CDATA[Noguess]]></title>
   <link href="http://noguess.github.io/atom.xml" rel="self"/>
   <link href="http://noguess.github.io/"/>
-  <updated>2014-07-24T14:16:50+08:00</updated>
+  <updated>2014-07-24T14:18:40+08:00</updated>
   <id>http://noguess.github.io/</id>
   <author>
     <name><![CDATA[noguess]]></name>
@@ -23,7 +23,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Title]]></title>
+    <title type="html"><![CDATA[title]]></title>
     <link href="http://noguess.github.io/blog/2014/07/24/title/"/>
     <updated>2014-07-24T14:10:19+08:00</updated>
     <id>http://noguess.github.io/blog/2014/07/24/title</id>
