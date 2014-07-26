@@ -4,7 +4,7 @@
   <title><![CDATA[Noguess]]></title>
   <link href="http://noguess.github.io/atom.xml" rel="self"/>
   <link href="http://noguess.github.io/"/>
-  <updated>2014-07-26T20:15:48+08:00</updated>
+  <updated>2014-07-26T20:28:46+08:00</updated>
   <id>http://noguess.github.io/</id>
   <author>
     <name><![CDATA[noguess]]></name>
@@ -14,19 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[呵呵]]></title>
-    <link href="http://noguess.github.io/blog/2014/07/24/new-post/"/>
-    <updated>2014-07-24T14:11:07+08:00</updated>
-    <id>http://noguess.github.io/blog/2014/07/24/new-post</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Title]]></title>
-    <link href="http://noguess.github.io/blog/2014/07/24/title/"/>
-    <updated>2014-07-24T14:10:19+08:00</updated>
-    <id>http://noguess.github.io/blog/2014/07/24/title</id>
+    <title type="html"><![CDATA[批判性思维]]></title>
+    <link href="http://noguess.github.io/blog/2014/07/26/pi-pan-xing-si-wei/"/>
+    <updated>2014-07-26T20:27:14+08:00</updated>
+    <id>http://noguess.github.io/blog/2014/07/26/pi-pan-xing-si-wei</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
