@@ -17,16 +17,23 @@
   
   <url>
     <loc>http://noguess.github.io/blog/archives/</loc>
-    <lastmod>2014-07-25T17:53:38+08:00</lastmod>
+    <lastmod>2014-07-26T20:09:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://noguess.github.io/</loc>
-    <lastmod>2014-07-25T17:53:38+08:00</lastmod>
+    <lastmod>2014-07-26T20:09:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://noguess.github.io/pi-pan-xing-si-wei/</loc>
+    <lastmod>2014-07-26T20:09:11+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   
   
